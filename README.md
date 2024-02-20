@@ -3,7 +3,7 @@
 #### Prerequisites
 
 - Node, minimum v18 - Version managing tool like [NVM](https://github.com/creationix/nvm) cab used to install a specific Node version.
-- Clone this repository ``
+- Clone this repository `git@github.com:leondominovic/meistertask-challenge.git`
 - Install node packages with `npm install`
 - Install playwright dependencies `npx playwright install --with-deps`
 - Set environment values in the `.env` file
